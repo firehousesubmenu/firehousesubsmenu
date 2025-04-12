@@ -2,9 +2,15 @@
 Firehouse Subs Menu
 # 👋 Hi, I’m @RobinHawk
 
-👀 I’m passionate about Firehouse Subs, web development, and SEO.  
-🌱 I’m currently learning advanced SEO techniques and improving my knowledge of food menu websites.  
-💞️ I’m open to collaborating on projects related to food websites, restaurant menus, and digital marketing strategies.  
-📫 How to reach me: You can contact me through my website [FirehouseSubMenu.us](https://firehousesubmenu.us/) or via email at firehousesubmenu@gmail.com.  
+🍴 I’m passionate about food content, digital publishing, and restaurant menu curation.  
+📚 I run [FirehouseSubMenu.us](https://firehousesubmenu.us), a detailed guide for the latest Firehouse Subs menu.  
+📸 Including pictures, updated prices, and fan favorites like the [Zesty Garlic Hook and Ladder](https://firehousesubmenu.us/zesty-garlic-hook-ladder/).  
+🔍 Currently focused on off-page SEO strategies for niche food websites.  
+💡 Open to collaborations with food bloggers, content creators, or menu database projects.  
+📬 Reach me at: firehousesubmenu@gmail.com  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love combining my expertise in SEO with food menu websites, making them both user-friendly and easily discoverable online.
+🚀 Fun fact: I can name 20 subs in under a minute!
+
+---
+
+📌 **Pinned Repo:** [firehousesubmenu](https://github.com/firehousesubmenu/firehousesubmenu) – Menu with images, prices, and detailed descriptions.
